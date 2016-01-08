@@ -1,0 +1,2 @@
+create table cust(cust_id number(4) primary key,ename varchar(16) not null,descp varchar(255) not null,email varchar(20) not null,date_of_birth
+number(10) not null);
